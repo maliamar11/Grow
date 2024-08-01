@@ -4,9 +4,7 @@ import org.testng.annotations.Test;
 
 public class AppTest2 
 {
-    /**
-     * Rigorous Test :-)
-     */
+ 
     @Test
     public void shouldAnswerWithTrue()
     {

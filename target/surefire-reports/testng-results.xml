@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-01T19:07:04 IST" name="Suite" finished-at="2024-08-01T19:07:04 IST" duration-ms="84">
+  <suite started-at="2024-08-01T19:56:51 IST" name="Suite" finished-at="2024-08-01T19:56:51 IST" duration-ms="86">
     <groups>
     </groups>
-    <test started-at="2024-08-01T19:07:04 IST" name="Test" finished-at="2024-08-01T19:07:04 IST" duration-ms="84">
+    <test started-at="2024-08-01T19:56:51 IST" name="Test" finished-at="2024-08-01T19:56:51 IST" duration-ms="86">
+      <class name="Grow.Grow.AppTest3">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:Grow.Grow.AppTest3@2e4b8173]" started-at="2024-08-01T19:56:51 IST" name="shouldAnswerWithTrue" finished-at="2024-08-01T19:56:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- Grow.Grow.AppTest3 -->
       <class name="Grow.Grow.AppTest">
-        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:Grow.Grow.AppTest@418e7838]" started-at="2024-08-01T19:07:04 IST" name="shouldAnswerWithTrue" finished-at="2024-08-01T19:07:04 IST" duration-ms="11" status="PASS">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:Grow.Grow.AppTest@3c130745]" started-at="2024-08-01T19:56:51 IST" name="shouldAnswerWithTrue" finished-at="2024-08-01T19:56:51 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldAnswerWithTrue -->
       </class> <!-- Grow.Grow.AppTest -->
+      <class name="Grow.Grow.AppTest2">
+        <test-method signature="shouldAnswerWithTrue()[pri:0, instance:Grow.Grow.AppTest2@72a7c7e0]" started-at="2024-08-01T19:56:51 IST" name="shouldAnswerWithTrue" finished-at="2024-08-01T19:56:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- Grow.Grow.AppTest2 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
