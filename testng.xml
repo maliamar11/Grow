@@ -4,7 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="Grow.Grow.AppTest"/>
-    <class name="Grow.Grow.AppTest2"/>
+    <class name="Grow.Grow.AppTest2i"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
