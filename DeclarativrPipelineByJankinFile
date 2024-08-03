@@ -1,0 +1,38 @@
+pipeline{
+agent any
+stages
+{
+  stage('checkout')
+{
+  steps
+{
+  echo 'Checking out!!'
+}  
+}
+  stage('building')
+{
+  steps
+{
+  echo 'Builing out!!'
+}  
+}
+  stage('archiving')
+{
+  steps
+{
+  echo 'Arching out!!'
+}  
+}
+
+
+}
+
+
+}
+
+
+
+
+
+
+
