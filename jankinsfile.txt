@@ -1,0 +1,18 @@
+node
+{
+satge('checkout')
+{
+	echo 'checking out Build!!'
+}
+satge('buid')
+{
+	echo 'building out Build!!'
+}
+satge('archievw')
+{
+	echo 'Arching out Build!!'
+}
+
+
+
+}
