@@ -1,14 +1,14 @@
 node('main')
 {
-satge('checkout')
+stage('checkout')
 {
 	echo 'checking out Build!!'
 }
-satge('buid')
+stage('buid')
 {
 	echo 'building out Build!!'
 }
-satge('archievw')
+stage('archievw')
 {
 	echo 'Arching out Build!!'
 }
