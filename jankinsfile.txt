@@ -3,14 +3,17 @@ node
 satge('checkout')
 {
 	echo 'checking out Build!!'
+	git branch: 'main', url:'https://github.com/maliamar11/Grow.git'
 }
 satge('buid')
 {
 	echo 'building out Build!!'
+	'mvn clean test'
 }
 satge('archievw')
 {
 	echo 'Arching out Build!!'
+	archiveArtifacts 'target/*jar'
 }
 
 
